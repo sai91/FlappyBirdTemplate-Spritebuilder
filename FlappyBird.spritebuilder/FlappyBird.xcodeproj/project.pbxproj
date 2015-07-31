@@ -19,7 +19,7 @@
 		B71F5919188484E7003F4D28 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F590F188484E7003F4D28 /* Settings.png */; };
 		B71F591A188484E7003F4D28 /* Settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5910188484E7003F4D28 /* Settings@2x.png */; };
 		B737893B180761570076A88C /* Published-iOS in Resources */ = {isa = PBXBuildFile; fileRef = B737893A180761570076A88C /* Published-iOS */; };
-		B737893F1807617C0076A88C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B737893E1807617C0076A88C /* AppDelegate.m */; };
+		B737893F1807617C0076A88C /* FlappyBird.xcodeproj in Sources */ = {isa = PBXBuildFile; fileRef = B737893E1807617C0076A88C /* FlappyBird.xcodeproj */; };
 		B7378975180762440076A88C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B737896B180762440076A88C /* Default-568h@2x.png */; };
 		B7378976180762440076A88C /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = B737896C180762440076A88C /* Default-Landscape~ipad.png */; };
 		B7378977180762440076A88C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B737896D180762440076A88C /* Default.png */; };
@@ -94,7 +94,7 @@
 		B71F5910188484E7003F4D28 /* Settings@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Settings@2x.png"; path = "Icons/Settings@2x.png"; sourceTree = "<group>"; };
 		B737893A180761570076A88C /* Published-iOS */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Published-iOS"; path = "Source/Resources/Published-iOS"; sourceTree = SOURCE_ROOT; };
 		B737893D1807617C0076A88C /* FlappyBird.xcodeproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "wrapper.pb-project"; path = FlappyBird.xcodeproj; sourceTree = "<group>"; };
-		B737893E1807617C0076A88C /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Source/AppDelegate.m; sourceTree = "<group>"; };
+		B737893E1807617C0076A88C /* FlappyBird.xcodeproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "wrapper.pb-project"; path = FlappyBird.xcodeproj; sourceTree = "<group>"; };
 		B7378940180761A80076A88C /* cocos2d-ios.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "cocos2d-ios.xcodeproj"; path = "Source/libs/cocos2d-iphone/cocos2d-ios.xcodeproj"; sourceTree = SOURCE_ROOT; };
 		B737896B180762440076A88C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Source/Resources/Default-568h@2x.png"; sourceTree = SOURCE_ROOT; };
 		B737896C180762440076A88C /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape~ipad.png"; path = "Source/Resources/Default-Landscape~ipad.png"; sourceTree = SOURCE_ROOT; };
@@ -169,7 +169,7 @@
 				BCF66F7A19563563004691FD /* FlappyBird.xcodeproj */,
 				BCF66F7B19563563004691FD /* Obstacle.m */,
 				B737893D1807617C0076A88C /* FlappyBird.xcodeproj */,
-				B737893E1807617C0076A88C /* AppDelegate.m */,
+				B737893E1807617C0076A88C /* FlappyBird.xcodeproj */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -407,7 +407,7 @@
 			files = (
 				BCF66F7E19563563004691FD /* Goal.m in Sources */,
 				BCF66F7D19563563004691FD /* GamePlayScene.m in Sources */,
-				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
+				B737893F1807617C0076A88C /* FlappyBird.xcodeproj in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
 				BCF66F8019563563004691FD /* Obstacle.m in Sources */,
 				BCF66F7C19563563004691FD /* Character.m in Sources */,
